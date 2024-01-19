@@ -75,11 +75,18 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "task",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference\\task\\post-task",
+        "api-reference\\task\\get-task",
+        "api-reference\\task\\delete-task"
+      ]
+    },
+    {
+      "group": "tasks",
+      "pages": [
+        "api-reference\\tasks\\get-tasks",
+        "api-reference\\tasks\\delete-tasks"
       ]
     }
   ],
