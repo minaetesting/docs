@@ -77,16 +77,16 @@
     {
       "group": "task",
       "pages": [
-        "api-reference\\task\\post-task",
-        "api-reference\\task\\get-task",
-        "api-reference\\task\\delete-task"
+        "api-reference/task/post-task",
+        "api-reference/taskget-task",
+        "api-reference/task/delete-task"
       ]
     },
     {
       "group": "tasks",
       "pages": [
-        "api-reference\\tasks\\get-tasks",
-        "api-reference\\tasks\\delete-tasks"
+        "api-reference/tasks/get-tasks",
+        "api-reference/tasks/delete-tasks"
       ]
     }
   ],
